@@ -1,24 +1,22 @@
 <div align="center">
 
 <!-- HEADER SECTION -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%">
   <tr>
-    <td width="80" valign="top">
-      <div style="width:76px; height:76px; background:#161b22; border:1.5px solid #1f6feb; border-radius:16px; display:flex; align-items:center; justify-content:center; color:#58a6ff; font-size:26px; font-weight:800; font-family:sans-serif;">
-        DC
-      </div>
+    <td align="left" width="80" valign="top">
+      <img src="https://ui-avatars.com/api/?name=DC&background=161b22&color=58a6ff&bold=true&rounded=true&size=76" width="76" height="76" style="border:1.5px solid #1f6feb; border-radius:16px;" />
     </td>
-    <td valign="top" style="padding-left:20px;">
-      <h2 style="margin:0; font-family:sans-serif;">Deepan Chandrasekaran</h2>
+    <td align="left" valign="top" style="padding-left:15px;">
+      <h2 style="margin:0;">Deepan Chandrasekaran</h2>
       <div style="color:#58a6ff; font-size:12px; margin-top:2px;">@deepanmpc · KL University · Vaddeswaram · Batch 2027</div>
-      <div style="color:#8b949e; font-size:11px; margin-top:7px; line-height:1.6;">
+      <div style="color: grey; font-size:11px; margin-top:7px; line-height:1.6;">
         Pre-final year <b>CS + AI</b> engineer building <b>LaRa</b> — a low-cost AI therapy companion for specially-abled children. CGPA 9.15 · Oracle GenAI · NVIDIA DLI
       </div>
       <div style="margin-top:10px;">
-        <img src="https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-238636?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Full--Stack-d27600?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Competitive%20Prog-8250df?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=flat-square" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-238636?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full--Stack-d27600?style=flat-square" />
+        <img src="https://img.shields.io/badge/Competitive%20Prog-8250df?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -27,25 +25,25 @@
 <br/>
 
 <!-- STATS CARDS -->
-<table width="100%" style="background:#161b22; border:1px solid #30363d; border-radius:11px; text-align:center;">
+<table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-collapse: collapse;">
   <tr>
-    <td width="20%" style="padding:15px; border-right:1px solid #21262d;">
+    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
       <div style="color:#58a6ff; font-size:18px; font-weight:800;">9.15</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">CGPA</div>
     </td>
-    <td width="20%" style="padding:15px; border-right:1px solid #21262d;">
+    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
       <div style="color:#3fb950; font-size:18px; font-weight:800;">3rd</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">RAMPAGE V26</div>
     </td>
-    <td width="20%" style="padding:15px; border-right:1px solid #21262d;">
+    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
       <div style="color:#ffa657; font-size:18px; font-weight:800;">99.8%</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">ISL Accuracy</div>
     </td>
-    <td width="20%" style="padding:15px; border-right:1px solid #21262d;">
+    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
       <div style="color:#bc8cff; font-size:18px; font-weight:800;">8★</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">SMART-SEARCH</div>
     </td>
-    <td width="20%" style="padding:15px;">
+    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
       <div style="color:#ff7b72; font-size:18px; font-weight:800;">50%↑</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">Resume Speed</div>
     </td>
@@ -60,9 +58,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/output/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/output/profile-green-animate.svg" />
-  <img alt="3D Isometric Contribution Grid" src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/output/profile-night-rainbow.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Isometric Contribution Grid" src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
 
 <br/>
@@ -72,53 +70,37 @@
   Featured projects
 </div>
 
-<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:15px; border-left:3px solid #58a6ff;">
-        <div style="color:#58a6ff; font-weight:700; font-size:14px;">LaRa · AI Therapy Companion</div>
-        <p style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline: Perception → State → FSM → Narrative. Local-first, privacy-oriented.</p>
-        <div style="margin-top:10px; font-size:10px;">
-          <span style="color:#8b949e; background:rgba(255,255,255,0.05); padding:2px 6px; border-radius:99px;">MediaPipe</span>
-          <span style="color:#8b949e; background:rgba(255,255,255,0.05); padding:2px 6px; border-radius:99px;">YOLO</span>
-          <span style="color:#ffa657; margin-left:5px;">★ 3rd @ RAMPAGE V26</span>
-        </div>
-      </div>
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #58a6ff;">
+        <tr>
+          <td style="padding: 15px;">
+            <div style="color:#58a6ff; font-weight:700; font-size:14px;">LaRa · AI Therapy Companion</div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline: Perception → State → FSM → Narrative. Local-first, privacy-oriented.</div>
+            <div style="margin-top:10px; font-size:10px;">
+              <img src="https://img.shields.io/badge/MediaPipe-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/YOLO-grey?style=flat-square" />
+              <span style="color:#ffa657; margin-left:5px;">★ 3rd @ RAMPAGE V26</span>
+            </div>
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="50%" valign="top">
-      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:15px; border-left:3px solid #3fb950;">
-        <div style="color:#3fb950; font-weight:700; font-size:14px;">SMART-SEARCH</div>
-        <p style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Natural language file system search tool. Zero configuration, instant results across your local file tree using semantic understanding.</p>
-        <div style="margin-top:10px; font-size:10px;">
-          <span style="color:#8b949e; background:rgba(255,255,255,0.05); padding:2px 6px; border-radius:99px;">NLP</span>
-          <span style="color:#8b949e; background:rgba(255,255,255,0.05); padding:2px 6px; border-radius:99px;">Python</span>
-          <span style="color:#ffa657; margin-left:5px;">★ 8 GitHub stars</span>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:15px; border-left:3px solid #ffa657;">
-        <div style="color:#ffa657; font-weight:700; font-size:14px;">ResumeAnalyse · RAG</div>
-        <p style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">RAG-architecture resume matching engine. 90%+ relevance score. Cuts recruiter screening time by 50% using semantic vector search.</p>
-        <div style="margin-top:10px; font-size:10px;">
-          <span style="color:#8b949e; background:rgba(255,255,255,0.05); padding:2px 6px; border-radius:99px;">RAG</span>
-          <span style="color:#8b949e; background:rgba(255,255,255,0.05); padding:2px 6px; border-radius:99px;">LLM</span>
-          <span style="color:#ffa657; margin-left:5px;">90%+ relevance</span>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:15px; border-left:3px solid #bc8cff;">
-        <div style="color:#bc8cff; font-weight:700; font-size:14px;">3D Shirt Customizer</div>
-        <p style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Interactive browser-based 3D shirt customization tool. Real-time texture mapping, color picker, logo placement on a live 3D model.</p>
-        <div style="margin-top:10px; font-size:10px;">
-          <span style="color:#8b949e; background:rgba(255,255,255,0.05); padding:2px 6px; border-radius:99px;">Three.js</span>
-          <span style="color:#8b949e; background:rgba(255,255,255,0.05); padding:2px 6px; border-radius:99px;">React</span>
-          <span style="color:#ffa657; margin-left:5px;">Live 3D · WebGL</span>
-        </div>
-      </div>
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #3fb950;">
+        <tr>
+          <td style="padding: 15px;">
+            <div style="color:#3fb950; font-weight:700; font-size:14px;">SMART-SEARCH</div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Natural language file system search tool. Zero configuration, instant results across your local file tree using semantic understanding.</div>
+            <div style="margin-top:10px; font-size:10px;">
+              <img src="https://img.shields.io/badge/NLP-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/Python-grey?style=flat-square" />
+              <span style="color:#ffa657; margin-left:5px;">★ 8 GitHub stars</span>
+            </div>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -130,39 +112,37 @@
   Stack & activity
 </div>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:15px; margin-right:5px;">
-        <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:10px;">Languages & stack</div>
-        <div style="margin-bottom:8px;">
-          <div style="display:flex; justify-content:space-between; color:#e6edf3; font-size:10px;"><span>Python</span><span>78%</span></div>
-          <div style="background:#21262d; border-radius:99px; height:5px; margin-top:4px;"><div style="background:#3572A5; width:78%; height:100%; border-radius:99px;"></div></div>
-        </div>
-        <div style="margin-bottom:8px;">
-          <div style="display:flex; justify-content:space-between; color:#e6edf3; font-size:10px;"><span>JavaScript</span><span>55%</span></div>
-          <div style="background:#21262d; border-radius:99px; height:5px; margin-top:4px;"><div style="background:#f1e05a; width:55%; height:100%; border-radius:99px;"></div></div>
-        </div>
-        <div style="margin-bottom:8px;">
-          <div style="display:flex; justify-content:space-between; color:#e6edf3; font-size:10px;"><span>Java</span><span>40%</span></div>
-          <div style="background:#21262d; border-radius:99px; height:5px; margin-top:4px;"><div style="background:#b07219; width:40%; height:100%; border-radius:99px;"></div></div>
-        </div>
-      </div>
+    <td width="60%" valign="top">
+      <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:10px; padding:15px;">
+        <tr>
+          <td>
+            <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:10px;">Languages & stack</div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e" width="100%" />
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:15px;">
-        <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:10px;">Current streak</div>
-        <div align="center">
-          <div style="color:#ffa657; font-size:32px; font-weight:800;">🔥 42</div>
-          <div style="color:#8b949e; font-size:10px;">days active</div>
-          <div style="color:#3fb950; font-size:9px; margin-top:5px;">▲ Longest: 78d · Total: 847 commits</div>
-        </div>
-      </div>
-      <div style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:10px; margin-top:10px;">
-        <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:5px;">Certifications</div>
-        <div style="font-size:10px; color:#e6edf3;">• Oracle GenAI Professional</div>
-        <div style="font-size:10px; color:#e6edf3;">• NVIDIA Deep Learning Institute</div>
-      </div>
+    <td width="40%" valign="top">
+      <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:10px; padding:15px;">
+        <tr>
+          <td align="center">
+            <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:5px;">Current streak</div>
+            <div style="color:#ffa657; font-size:32px; font-weight:800;">🔥 42</div>
+            <div style="color:#8b949e; font-size:10px;">days active</div>
+          </td>
+        </tr>
+      </table>
+      <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:10px; padding:10px; margin-top:10px;">
+        <tr>
+          <td>
+            <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:5px;">Certifications</div>
+            <div style="font-size:10px; color:#8b949e;">• Oracle GenAI Prof.</div>
+            <div style="font-size:10px; color:#8b949e;">• NVIDIA DLI</div>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -170,7 +150,7 @@
 <br/>
 
 <div align="center" style="font-size:9px; color:#30363d; letter-spacing:1px; text-transform:uppercase;">
-  <span style="color:#58a6ff;">github.com/deepanmpc</span> · linkedin.com/in/deepanmpc · Karur, India
+  <span style="color:#58a6ff;">github.com/deepanmpc</span> · linkedin.com/in/deepanmpc
 </div>
 
 </div>
