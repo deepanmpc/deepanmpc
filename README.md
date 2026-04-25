@@ -164,48 +164,46 @@
 
 <!-- STACK & ACTIVITY -->
 <div align="left" style="font-size:11px; color:#ffa657; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
-  🛠️ Stack & activity
+  ⚒️ Stack & activity
 </div>
 
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
-      <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:10px; padding:15px;">
-        <tr>
-          <td>
-            <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:10px;">Languages & stack</div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e" width="100%" />
-          </td>
-        </tr>
-      </table>
+    <!-- Languages Card -->
+    <td width="55%" valign="top">
+      <div style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:15px; margin-right:10px;">
+        <div style="color:#58a6ff; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:12px;">📈 Dev Stack</div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e" width="100%" />
+      </div>
     </td>
-    <td width="40%" valign="top">
-      <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:10px; padding:15px;">
-        <tr>
-          <td align="center">
-            <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:5px;">Current streak</div>
-            <div style="color:#ffa657; font-size:32px; font-weight:800; text-shadow: 0 0 10px rgba(255,166,87,0.4);">🔥 42</div>
-            <div style="color:#8b949e; font-size:10px;">days active</div>
-          </td>
-        </tr>
-      </table>
-      <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:10px; padding:10px; margin-top:10px;">
-        <tr>
-          <td align="center">
-            <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:5px;">Certifications</div>
-            <div style="font-size:10px; color:#58a6ff;">• Oracle GenAI Professional</div>
-            <div style="font-size:10px; color:#3fb950;">• NVIDIA Deep Learning Inst.</div>
-          </td>
-        </tr>
-      </table>
+    
+    <!-- Streak & Certs Column -->
+    <td width="45%" valign="top">
+      <!-- Streak Card -->
+      <div style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:15px; margin-bottom:12px; border-top: 3px solid #ffa657;">
+        <div style="color:#ffa657; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:8px;">🔥 Current Streak</div>
+        <div align="center">
+          <span style="color:#ffa657; font-size:36px; font-weight:900; text-shadow: 0 0 10px rgba(255,166,87,0.3);">42</span>
+          <div style="color:#8b949e; font-size:12px; font-weight:bold;">DAYS ACTIVE</div>
+        </div>
+      </div>
+      
+      <!-- Certifications Card -->
+      <div style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:15px; border-top: 3px solid #3fb950;">
+        <div style="color:#3fb950; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:10px;">🏆 Notable Certs</div>
+        <div style="font-size:11px; color:#e6edf3; line-height:1.6;">
+          <div style="margin-bottom:4px;">✨ <b>Oracle</b> GenAI Professional</div>
+          <div>✨ <b>NVIDIA</b> Deep Learning Inst.</div>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center" style="font-size:10px; color:#8b949e; text-transform:uppercase;">
-  <span style="color:#58a6ff; font-weight: bold;">github.com/deepanmpc</span> · <span style="color:#ffa657; font-weight: bold;">linkedin.com/in/deepanmpc</span>
+<div align="center" style="font-size:10px; color:#8b949e; text-transform:uppercase; letter-spacing:1px;">
+  <span style="color:#58a6ff; font-weight: bold;">github.com/deepanmpc</span> &nbsp; • &nbsp; <span style="color:#ffa657; font-weight: bold;">linkedin.com/in/deepanmpc</span>
 </div>
 
 </div>
