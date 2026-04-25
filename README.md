@@ -34,7 +34,7 @@
 
 ### 🏙️ Contribution Landscape · 2024–2025
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Deepan's 3D Contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
 </p>
 
 ---
