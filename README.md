@@ -76,7 +76,7 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #58a6ff;">
         <tr>
           <td style="padding: 15px;">
-            <div style="color:#58a6ff; font-weight:700; font-size:14px;">LaRa · AI Therapy Companion</div>
+            <div style="color:#58a6ff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/LaRa" style="color:#58a6ff; text-decoration:none;">LaRa · AI Therapy Companion</a></div>
             <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline: Perception → State → FSM → Narrative. Local-first, privacy-oriented.</div>
             <div style="margin-top:10px; font-size:10px;">
               <img src="https://img.shields.io/badge/MediaPipe-grey?style=flat-square" />
@@ -91,7 +91,7 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #3fb950;">
         <tr>
           <td style="padding: 15px;">
-            <div style="color:#3fb950; font-weight:700; font-size:14px;">SMART-SEARCH</div>
+            <div style="color:#3fb950; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/SMART-SEARCH" style="color:#3fb950; text-decoration:none;">SMART-SEARCH</a></div>
             <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Natural language file system search tool. Zero configuration, instant results across your local file tree using semantic understanding.</div>
             <div style="margin-top:10px; font-size:10px;">
               <img src="https://img.shields.io/badge/NLP-grey?style=flat-square" />
@@ -103,7 +103,45 @@
       </table>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #ffa657;">
+        <tr>
+          <td style="padding: 15px;">
+            <div style="color:#ffa657; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/ResumeAnalyse" style="color:#ffa657; text-decoration:none;">ResumeAnalyse · RAG</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">RAG-architecture resume matching engine. 90%+ relevance score. Cuts recruiter screening time by 50% using semantic vector search.</div>
+            <div style="margin-top:10px; font-size:10px;">
+              <img src="https://img.shields.io/badge/RAG-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/LLM-grey?style=flat-square" />
+              <span style="color:#ffa657; margin-left:5px;">90%+ relevance</span>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #bc8cff;">
+        <tr>
+          <td style="padding: 15px;">
+            <div style="color:#bc8cff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/3d-shirt-customizer" style="color:#bc8cff; text-decoration:none;">3D Shirt Customizer</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Interactive browser-based 3D shirt customization tool. Real-time texture mapping, color picker, logo placement on a live 3D model.</div>
+            <div style="margin-top:10px; font-size:10px;">
+              <img src="https://img.shields.io/badge/Three.js-grey?style=flat-square" />
+              <img src="https://img.shields.io/badge/React-grey?style=flat-square" />
+              <span style="color:#ffa657; margin-left:5px;">Live 3D · WebGL</span>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
+
+<br/>
+
+<div align="left" style="font-size:11px; color:#8b949e; margin-left:10px;">
+  > 🔒 <b>Also shipped:</b> <a href="https://github.com/deepanmpc/adversarial-defense-anti-spoofing" style="color:#58a6ff; text-decoration:none;">Adversarial Defense & Anti-Spoofing</a> — GPS spoofing detection (Guidewire DEVTrails 2026)
+</div>
 
 <br/>
 
