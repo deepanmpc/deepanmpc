@@ -103,5 +103,16 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanmpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/deepanmpc">
+    <img src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  </a>
+</p>
+
+<p align="center">
   github.com/deepanmpc · linkedin.com/in/deepanmpc · Karur, India
 </p>
