@@ -31,9 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-### 🏙️ 3D Contribution Graph (Isometric)
-*This graph requires the GitHub action included in the `.github/workflows` folder to run successfully.*
-
+### 🏙️ 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/github-metrics.svg" alt="Deepan's GitHub Metrics" width="80%" />
+  <img src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Deepan's 3D Contributions" width="100%" />
 </p>
