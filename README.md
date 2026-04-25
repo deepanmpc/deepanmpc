@@ -1,35 +1,38 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" /> Hi, I'm Deepan Chandrasekaran
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" /> Deepan Chandrasekaran
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Pre--final%20Year%20CS%20%2B%20AI-blue?style=for-the-badge&logo=cpu" alt="Status" />
-  <img src="https://img.shields.io/badge/CGPA-9.15-success?style=for-the-badge" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Location-Karur,%20India-orange?style=for-the-badge&logo=googlemaps" alt="Location" />
-</p>
-
-> **Pre-final year CS + AI engineer.** Building **LaRa** — a low-cost AI therapy companion for specially-abled children. CGPA 9.15 · KL University · Batch of 2027.
-
----
-
-### 🚀 Performance Metrics
-<p align="center">
-  <a href="https://github.com/deepanmpc">
-    <img src="https://github-readme-stats.vercel.app/api?username=deepanmpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  </a>
-  <a href="https://github.com/deepanmpc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RAMPAGE%20V26-3rd%20Place-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/ISL%20CNN-99.8%25%20Accuracy-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/SMART--SEARCH-8★-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Resume%20Speed-50%25%20Increase-red?style=flat-square" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100">
+      <img src="https://ui-avatars.com/api/?name=DC&background=161b22&color=58a6ff&size=128&font-size=0.4&bold=true" width="80" style="border-radius:16px; border: 1.5px solid #1f6feb;" />
+    </td>
+    <td>
+      <strong>@deepanmpc</strong> · KL University · Vaddeswaram · Batch 2027<br/>
+      Pre-final year <em>CS + AI</em> engineer building <em>LaRa</em> — a low-cost AI therapy companion for specially-abled children. CGPA 9.15 · Oracle GenAI · NVIDIA DLI<br/>
+      <img src="https://img.shields.io/badge/AI%20/%20ML-1f6feb?style=flat-square" /> 
+      <img src="https://img.shields.io/badge/Computer%20Vision-238636?style=flat-square" /> 
+      <img src="https://img.shields.io/badge/Full--Stack-d27600?style=flat-square" /> 
+      <img src="https://img.shields.io/badge/Competitive%20Prog-8250df?style=flat-square" /> 
+      <img src="https://img.shields.io/badge/Open%20Source-1f6feb?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🏙️ 3D Contribution Graph
+### 📊 Performance Metrics
+<table width="100%">
+  <tr align="center">
+    <td><b>9.15</b><br/><sub>CGPA</sub></td>
+    <td><b>3rd</b><br/><sub>RAMPAGE V26</sub></td>
+    <td><b>99.8%</b><br/><sub>ISL ACCURACY</sub></td>
+    <td><b>8★</b><br/><sub>SMART-SEARCH</sub></td>
+    <td><b>50%↑</b><br/><sub>RESUME SPEED</sub></td>
+  </tr>
+</table>
+
+---
+
+### 🏙️ Contribution Landscape · 2024–2025
 <p align="center">
   <img src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Deepan's 3D Contributions" width="100%" />
 </p>
@@ -38,51 +41,67 @@
 
 ### 🛠️ Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **LaRa** | Low-cost adaptive robotic-AI therapy system for specially-abled children. | `MediaPipe` `YOLO` `FastAPI` |
-| **ISL SignLang CNN** | Indian Sign Language recognition CNN achieving 99.8% validation accuracy. | `CNN` `OpenCV` `TensorFlow` |
-| **ResumeAnalyse RAG** | RAG-architecture matching system. 50% reduction in screening time. | `RAG` `LLM` `LangChain` |
-| **Anti-Spoofing** | GPS spoofing fraud detection for gig-worker insurance. | `XGBoost` `Adversarial AI` |
-
----
-
-### 🎓 Credentials & Stack
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Languages & Tech</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <b>LaRa · AI Therapy Companion</b><br/>
+      <sub>Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline.</sub><br/>
+      <code>MediaPipe</code> <code>YOLO</code> <code>FastAPI</code><br/>
+      <small>★ 3rd @ RAMPAGE V26</small>
     </td>
     <td width="50%" valign="top">
-      <h4>🏆 Certifications</h4>
-      <ul>
-        <li><b>Oracle GenAI Professional</b></li>
-        <li><b>NVIDIA Deep Learning Institute</b></li>
-        <li><b>Freelance · Apparel Manufacturer</b></li>
-      </ul>
+      <b>SMART-SEARCH</b><br/>
+      <sub>Natural language file system search tool. Zero configuration, instant semantic results.</sub><br/>
+      <code>NLP</code> <code>Python</code><br/>
+      <small>★ 8 GitHub stars</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>ResumeAnalyse · RAG</b><br/>
+      <sub>RAG-architecture resume matching engine. 90%+ relevance score.</sub><br/>
+      <code>RAG</code> <code>LLM</code><br/>
+      <small>90%+ relevance</small>
+    </td>
+    <td width="50%" valign="top">
+      <b>3D Shirt Customizer</b><br/>
+      <sub>Interactive browser-based 3D shirt customization tool with real-time mapping.</sub><br/>
+      <code>Three.js</code> <code>React</code><br/>
+      <small>Live 3D · WebGL</small>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepanmpc/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/deepanmpc" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+### ⚡ Stack & Activity
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>Languages & Stack</b><br/>
+      <img src="https://img.shields.io/badge/Python-78%25-3572A5?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-55%25-f1e05a?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Java-40%25-b07219?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/C++-35%25-f34b7d?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/CSS/HTML-30%25-e34c26?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <b>Current Streak</b><br/>
+      <font size="6" color="#ffa657">🔥 42</font><br/>
+      <sub>days active</sub><br/>
+      <small>▲ Longest: 78d · Total: 847 commits</small>
+      <hr/>
+      <b>Certifications</b><br/>
+      • Oracle GenAI Professional<br/>
+      • NVIDIA Deep Learning Institute<br/>
+      • Freelance SWE · Apparel Mfg
+    </td>
+  </tr>
+</table>
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/github-metrics.svg" alt="Metrics" />
+  github.com/deepanmpc · linkedin.com/in/deepanmpc · Karur, India
 </p>
