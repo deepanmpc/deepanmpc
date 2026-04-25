@@ -4,19 +4,19 @@
 <table width="100%">
   <tr>
     <td align="left" width="80" valign="top">
-      <img src="https://ui-avatars.com/api/?name=DC&background=161b22&color=58a6ff&bold=true&rounded=true&size=76" width="76" height="76" style="border:1.5px solid #1f6feb; border-radius:16px;" />
+      <img src="https://ui-avatars.com/api/?name=DC&background=161b22&color=58a6ff&bold=true&rounded=true&size=76" width="76" height="76" style="border:2px solid #58a6ff; border-radius:16px;" />
     </td>
     <td align="left" valign="top" style="padding-left:15px;">
-      <h2 style="margin:0;">Deepan Chandrasekaran</h2>
-      <div style="color:#58a6ff; font-size:12px; margin-top:2px;">@deepanmpc · KL University · Vaddeswaram · Batch 2027</div>
-      <div style="color: grey; font-size:11px; margin-top:7px; line-height:1.6;">
+      <h2 style="margin:0; background: linear-gradient(120deg, #58a6ff, #bc8cff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Deepan Chandrasekaran</h2>
+      <div style="color:#58a6ff; font-size:12px; margin-top:2px; font-weight: bold;">@deepanmpc · KL University · Vaddeswaram · Batch 2027</div>
+      <div style="color: #8b949e; font-size:11px; margin-top:7px; line-height:1.6;">
         Pre-final year <b>CS + AI</b> engineer building <b>LaRa</b> — a low-cost AI therapy companion for specially-abled children. CGPA 9.15 · Oracle GenAI · NVIDIA DLI
       </div>
       <div style="margin-top:10px;">
-        <img src="https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=flat-square" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-238636?style=flat-square" />
-        <img src="https://img.shields.io/badge/Full--Stack-d27600?style=flat-square" />
-        <img src="https://img.shields.io/badge/Competitive%20Prog-8250df?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-238636?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full--Stack-d27600?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Competitive%20Prog-8250df?style=for-the-badge&logoColor=white" />
       </div>
     </td>
   </tr>
@@ -24,28 +24,28 @@
 
 <br/>
 
-<!-- STATS CARDS -->
-<table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-collapse: collapse;">
+<!-- STATS CARDS WITH COLOUR THEME -->
+<table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 12px; overflow: hidden;">
   <tr>
-    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
-      <div style="color:#58a6ff; font-size:18px; font-weight:800;">9.15</div>
-      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">CGPA</div>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #58a6ff;">
+      <div style="color:#58a6ff; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(88,166,255,0.3);">9.15</div>
+      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">CGPA</div>
     </td>
-    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
-      <div style="color:#3fb950; font-size:18px; font-weight:800;">3rd</div>
-      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">RAMPAGE V26</div>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #3fb950;">
+      <div style="color:#3fb950; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(63,185,80,0.3);">3rd</div>
+      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">RAMPAGE V26</div>
     </td>
-    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
-      <div style="color:#ffa657; font-size:18px; font-weight:800;">99.8%</div>
-      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">ISL Accuracy</div>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #ffa657;">
+      <div style="color:#ffa657; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,166,87,0.3);">99.8%</div>
+      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">ISL Accuracy</div>
     </td>
-    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
-      <div style="color:#bc8cff; font-size:18px; font-weight:800;">8★</div>
-      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">SMART-SEARCH</div>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #bc8cff;">
+      <div style="color:#bc8cff; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(188,140,255,0.3);">8★</div>
+      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">SMART-SEARCH</div>
     </td>
-    <td align="center" style="padding: 15px; border: 1px solid #30363d;">
-      <div style="color:#ff7b72; font-size:18px; font-weight:800;">50%↑</div>
-      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px;">Resume Speed</div>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #ff7b72;">
+      <div style="color:#ff7b72; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,123,114,0.3);">50%↑</div>
+      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">Resume Speed</div>
     </td>
   </tr>
 </table>
@@ -53,82 +53,105 @@
 <br/>
 
 <!-- CONTRIBUTION LANDSCAPE -->
-<div align="left" style="font-size:10px; color:#8b949e; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
-  Contribution landscape · 2024–2025
+<div align="left" style="font-size:11px; color:#58a6ff; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
+  🌌 Contribution landscape · 2024–2025
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Isometric Contribution Grid" src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img alt="3D Isometric Contribution Grid" src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/output/profile-night-rainbow.svg" width="100%" />
 </picture>
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
-<div align="left" style="font-size:10px; color:#8b949e; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
-  Featured projects
+<!-- FEATURED PROJECTS GRID -->
+<div align="left" style="font-size:11px; color:#bc8cff; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
+  🚀 Featured projects
 </div>
 
-<table width="100%">
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+  <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
-      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #58a6ff;">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #58a6ff; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
         <tr>
           <td style="padding: 15px;">
-            <div style="color:#58a6ff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/LaRa" style="color:#58a6ff; text-decoration:none;">LaRa · AI Therapy Companion</a></div>
-            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline: Perception → State → FSM → Narrative. Local-first, privacy-oriented.</div>
+            <div style="color:#58a6ff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/LaRa" style="color:#58a6ff; text-decoration:none;">🤖 LaRa · AI Therapy Companion</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline. Local-first, privacy-oriented.</div>
             <div style="margin-top:10px; font-size:10px;">
-              <img src="https://img.shields.io/badge/MediaPipe-grey?style=flat-square" />
-              <img src="https://img.shields.io/badge/YOLO-grey?style=flat-square" />
-              <span style="color:#ffa657; margin-left:5px;">★ 3rd @ RAMPAGE V26</span>
+              <img src="https://img.shields.io/badge/FastAPI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-green?style=flat-square" />
             </div>
           </td>
         </tr>
       </table>
     </td>
     <td width="50%" valign="top">
-      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #3fb950;">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #3fb950; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
         <tr>
           <td style="padding: 15px;">
-            <div style="color:#3fb950; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/SMART-SEARCH" style="color:#3fb950; text-decoration:none;">SMART-SEARCH</a></div>
-            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Natural language file system search tool. Zero configuration, instant results across your local file tree using semantic understanding.</div>
+            <div style="color:#3fb950; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/SMART-SEARCH" style="color:#3fb950; text-decoration:none;">🔍 SMART-SEARCH</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Natural language file system search tool. Zero configuration, instant results via semantic understanding.</div>
             <div style="margin-top:10px; font-size:10px;">
-              <img src="https://img.shields.io/badge/NLP-grey?style=flat-square" />
-              <img src="https://img.shields.io/badge/Python-grey?style=flat-square" />
-              <span style="color:#ffa657; margin-left:5px;">★ 8 GitHub stars</span>
+              <img src="https://img.shields.io/badge/Python-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/NLP-white?style=flat-square" />
             </div>
           </td>
         </tr>
       </table>
     </td>
   </tr>
+  <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
-      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #ffa657;">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #bc8cff; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
         <tr>
           <td style="padding: 15px;">
-            <div style="color:#ffa657; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/ResumeAnalyse" style="color:#ffa657; text-decoration:none;">ResumeAnalyse · RAG</a></div>
-            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">RAG-architecture resume matching engine. 90%+ relevance score. Cuts recruiter screening time by 50% using semantic vector search.</div>
+            <div style="color:#bc8cff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/3d-shirt-customizer" style="color:#bc8cff; text-decoration:none;">👕 3D Shirt Customizer</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Interactive browser-based 3D shirt customization. Real-time texture mapping & WebGL rendering.</div>
             <div style="margin-top:10px; font-size:10px;">
-              <img src="https://img.shields.io/badge/RAG-grey?style=flat-square" />
-              <img src="https://img.shields.io/badge/LLM-grey?style=flat-square" />
-              <span style="color:#ffa657; margin-left:5px;">90%+ relevance</span>
+              <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" /> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square" />
             </div>
           </td>
         </tr>
       </table>
     </td>
     <td width="50%" valign="top">
-      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #bc8cff;">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #ffa657; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
         <tr>
           <td style="padding: 15px;">
-            <div style="color:#bc8cff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/3d-shirt-customizer" style="color:#bc8cff; text-decoration:none;">3D Shirt Customizer</a></div>
-            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Interactive browser-based 3D shirt customization tool. Real-time texture mapping, color picker, logo placement on a live 3D model.</div>
+            <div style="color:#ffa657; font-weight:700; font-size:14px;"><a href="#" style="color:#ffa657; text-decoration:none;">🤟 Indian Sign Language (ISL)</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Real-time ISL recognition using CNN. Achieved 99.8% Accuracy at 45 FPS for seamless communication.</div>
             <div style="margin-top:10px; font-size:10px;">
-              <img src="https://img.shields.io/badge/Three.js-grey?style=flat-square" />
-              <img src="https://img.shields.io/badge/React-grey?style=flat-square" />
-              <span style="color:#ffa657; margin-left:5px;">Live 3D · WebGL</span>
+              <img src="https://img.shields.io/badge/CNN-orange?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square" />
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- ROW 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #ff7b72; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+        <tr>
+          <td style="padding: 15px;">
+            <div style="color:#ff7b72; font-weight:700; font-size:14px;"><a href="#" style="color:#ff7b72; text-decoration:none;">💖 Love Predict</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">AI-powered relationship dynamic predictor using behavioral analytics and sentiment modeling.</div>
+            <div style="margin-top:10px; font-size:10px;">
+              <img src="https://img.shields.io/badge/ML-red?style=flat-square" /> <img src="https://img.shields.io/badge/Python-white?style=flat-square" />
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #3fb950; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+        <tr>
+          <td style="padding: 15px;">
+            <div style="color:#3fb950; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/ResumeAnalyse" style="color:#3fb950; text-decoration:none;">📄 ResumeAnalyse · RAG</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">RAG-architecture matching engine. Cuts Recruiter screening time by 50% using semantic search.</div>
+            <div style="margin-top:10px; font-size:10px;">
+              <img src="https://img.shields.io/badge/RAG-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/LLM-white?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -139,15 +162,9 @@
 
 <br/>
 
-<div align="left" style="font-size:11px; color:#8b949e; margin-left:10px;">
-  > 🔒 <b>Also shipped:</b> <a href="https://github.com/deepanmpc/adversarial-defense-anti-spoofing" style="color:#58a6ff; text-decoration:none;">Adversarial Defense & Anti-Spoofing</a> — GPS spoofing detection (Guidewire DEVTrails 2026)
-</div>
-
-<br/>
-
 <!-- STACK & ACTIVITY -->
-<div align="left" style="font-size:10px; color:#8b949e; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
-  Stack & activity
+<div align="left" style="font-size:11px; color:#ffa657; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
+  🛠️ Stack & activity
 </div>
 
 <table width="100%">
@@ -167,17 +184,17 @@
         <tr>
           <td align="center">
             <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:5px;">Current streak</div>
-            <div style="color:#ffa657; font-size:32px; font-weight:800;">🔥 42</div>
+            <div style="color:#ffa657; font-size:32px; font-weight:800; text-shadow: 0 0 10px rgba(255,166,87,0.4);">🔥 42</div>
             <div style="color:#8b949e; font-size:10px;">days active</div>
           </td>
         </tr>
       </table>
       <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:10px; padding:10px; margin-top:10px;">
         <tr>
-          <td>
+          <td align="center">
             <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:5px;">Certifications</div>
-            <div style="font-size:10px; color:#8b949e;">• Oracle GenAI Prof.</div>
-            <div style="font-size:10px; color:#8b949e;">• NVIDIA DLI</div>
+            <div style="font-size:10px; color:#58a6ff;">• Oracle GenAI Professional</div>
+            <div style="font-size:10px; color:#3fb950;">• NVIDIA Deep Learning Inst.</div>
           </td>
         </tr>
       </table>
@@ -187,8 +204,8 @@
 
 <br/>
 
-<div align="center" style="font-size:9px; color:#30363d; letter-spacing:1px; text-transform:uppercase;">
-  <span style="color:#58a6ff;">github.com/deepanmpc</span> · linkedin.com/in/deepanmpc
+<div align="center" style="font-size:10px; color:#8b949e; text-transform:uppercase;">
+  <span style="color:#58a6ff; font-weight: bold;">github.com/deepanmpc</span> · <span style="color:#ffa657; font-weight: bold;">linkedin.com/in/deepanmpc</span>
 </div>
 
 </div>
