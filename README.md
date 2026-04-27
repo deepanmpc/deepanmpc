@@ -80,7 +80,8 @@
             <div style="color:#58a6ff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/LaRa" style="color:#58a6ff; text-decoration:none;">🤖 LaRa · AI Therapy Companion</a></div>
             <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline. Local-first, privacy-oriented.</div>
             <div style="margin-top:10px; font-size:10px;">
-              <img src="https://img.shields.io/badge/FastAPI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-green?style=flat-square" />
+              <img src="https://img.shields.io/badge/FastAPI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-green?style=flat-square" /><img src="https://img.shields.io/badge/Ollama-green?style=flat-square" />
+              <img src="https://img.shields.io/badge/VLLM-green?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -109,7 +110,7 @@
             <div style="color:#bc8cff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/3d-shirt-customizer" style="color:#bc8cff; text-decoration:none;">👕 3D Shirt Customizer</a></div>
             <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Interactive browser-based 3D shirt customization. Real-time texture mapping & WebGL rendering.</div>
             <div style="margin-top:10px; font-size:10px;">
-              <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" /> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square" />
+              <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" /> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square" /><img src="https://img.shields.io/badge/openai_DALL_E_API-green?style=flat-square" />
             </div>
           </td>
         </tr>
