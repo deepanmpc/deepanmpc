@@ -9,7 +9,7 @@
       <h2 style="margin:0; background: linear-gradient(120deg, #58a6ff, #bc8cff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Deepan Chandrasekaran</h2>
       <div style="color:#58a6ff; font-size:12px; margin-top:2px; font-weight: bold;">@deepanmpc · KL University · Vaddeswaram · Batch 2027</div>
       <div style="color: #8b949e; font-size:11px; margin-top:7px; line-height:1.6;">
-        Pre-final year <b>CS + AI</b> engineer building <b>LaRa</b> — a low-cost AI therapy companion for specially-abled children. CGPA 9.15 · Oracle GenAI · NVIDIA DLI
+        Pre-final year <b>CS + AI</b> engineer building <b>Anaavi</b> — a low-cost AI therapy companion for neurodivergent children. CGPA 9.15 · Oracle GenAI · NVIDIA DLI
       </div>
       <div style="margin-top:10px;">
         <img src="https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=for-the-badge&logoColor=white" />
@@ -87,8 +87,8 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 10px; border-left: 4px solid #58a6ff; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
         <tr>
           <td style="padding: 15px;">
-            <div style="color:#58a6ff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/LaRa" style="color:#58a6ff; text-decoration:none;">🤖 LaRa · AI Therapy Companion</a></div>
-            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline. Local-first, privacy-oriented.</div>
+            <div style="color:#58a6ff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/Anaavi_Neurodott" style="color:#58a6ff; text-decoration:none;">🤖 Anaavi · Neurodott</a></div>
+            <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">A low-cost, adaptive robotic AI platform for neurodivergent therapy. 4-layer pipeline: Perception → State → FSM → Narrative.</div>
             <div style="margin-top:10px; font-size:10px;">
               <img src="https://img.shields.io/badge/FastAPI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-green?style=flat-square" />
             </div>
