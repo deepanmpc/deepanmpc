@@ -42,6 +42,7 @@
 
 <!-- STATS CARDS WITH COLOUR THEME -->
 <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 12px; overflow: hidden;">
+  <!-- ROW 1 -->
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #58a6ff;">
       <div style="color:#58a6ff; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(88,166,255,0.3);">9.15</div>
@@ -55,6 +56,9 @@
       <div style="color:#ffa657; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,166,87,0.3);">99.8%</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">ISL Accuracy</div>
     </td>
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #bc8cff;">
       <div style="color:#bc8cff; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(188,140,255,0.3);">8★</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">SMART-SEARCH</div>
@@ -62,6 +66,10 @@
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #ff7b72;">
       <div style="color:#ff7b72; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,123,114,0.3);">50%↑</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">Resume Speed</div>
+    </td>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #e6edf3;">
+      <div style="color:#e6edf3; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,255,255,0.2);">686+</div>
+      <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">Yearly Contribs</div>
     </td>
   </tr>
 </table>
