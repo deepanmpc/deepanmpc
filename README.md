@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- HEADER SECTION -->
 <table width="100%">
   <tr>
@@ -21,9 +20,7 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 <!-- STATS CARDS WITH COLOUR THEME -->
 <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 12px; overflow: hidden;">
   <tr>
@@ -49,27 +46,21 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 <!-- CONTRIBUTION LANDSCAPE -->
 <div align="left" style="font-size:11px; color:#58a6ff; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
   🌌 Contribution landscape · 2024–2025
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-green-animate.svg" />
   <img alt="3D Isometric Contribution Grid" src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/output/profile-night-rainbow.svg" width="100%" />
 </picture>
-
 <br/>
-
 <!-- FEATURED PROJECTS GRID -->
 <div align="left" style="font-size:11px; color:#bc8cff; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
   🚀 Featured projects
 </div>
-
 <table width="100%" cellpadding="5" cellspacing="0" border="0">
   <!-- ROW 1 -->
   <tr>
@@ -80,8 +71,7 @@
             <div style="color:#58a6ff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/LaRa" style="color:#58a6ff; text-decoration:none;">🤖 LaRa · AI Therapy Companion</a></div>
             <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Low-cost adaptive robotic-AI for specially-abled children. 4-layer pipeline. Local-first, privacy-oriented.</div>
             <div style="margin-top:10px; font-size:10px;">
-              <img src="https://img.shields.io/badge/FastAPI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-green?style=flat-square" /><img src="https://img.shields.io/badge/Ollama-green?style=flat-square" />
-              <img src="https://img.shields.io/badge/VLLM-green?style=flat-square" />
+              <img src="https://img.shields.io/badge/FastAPI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-green?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -110,7 +100,7 @@
             <div style="color:#bc8cff; font-weight:700; font-size:14px;"><a href="https://github.com/deepanmpc/3d-shirt-customizer" style="color:#bc8cff; text-decoration:none;">👕 3D Shirt Customizer</a></div>
             <div style="color:#8b949e; font-size:11px; line-height:1.6; margin-top:5px;">Interactive browser-based 3D shirt customization. Real-time texture mapping & WebGL rendering.</div>
             <div style="margin-top:10px; font-size:10px;">
-              <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" /> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square" /><img src="https://img.shields.io/badge/openai_DALL_E_API-green?style=flat-square" />
+              <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" /> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -160,14 +150,11 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 <!-- STACK & ACTIVITY -->
 <p align="left" style="font-size:11px; color:#ffa657; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
   ⚒️ Stack & activity
 </p>
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="55%" valign="top" style="padding-right:10px;">
@@ -204,11 +191,8 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 <p align="center" style="font-size:10px; color:#8b949e; text-transform:uppercase; letter-spacing:1px;">
   <span style="color:#58a6ff; font-weight: bold;">github.com/deepanmpc</span> &nbsp; • &nbsp; <span style="color:#ffa657; font-weight: bold;">linkedin.com/in/deepanmpc</span>
 </p>
-
 </div>
