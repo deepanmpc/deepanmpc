@@ -25,14 +25,14 @@
 
 <!-- PORTFOLIO BANNER -->
 <a href="https://deepanmpc.github.io/PORTFOLIO/" style="text-decoration: none;">
-  <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #58a6ff;">
+  <table width="100%" bgcolor="#0d1117" style="border: 1.5px solid #30363d; border-radius: 16px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); overflow: hidden; box-shadow: 0 4px 15px rgba(88, 166, 255, 0.15);">
     <tr>
-      <td align="left" style="padding: 15px;">
-        <div style="color: #58a6ff; font-size: 16px; font-weight: bold;">Visit My Portfolio ✨</div>
-        <div style="color: #8b949e; font-size: 12px; margin-top: 5px;">Explore my interactive projects, detailed journey, and technical blog.</div>
+      <td align="left" style="padding: 20px; border-left: 6px solid #58a6ff;">
+        <div style="color: #58a6ff; font-size: 18px; font-weight: 800; letter-spacing: 0.5px; text-shadow: 0 0 10px rgba(88,166,255,0.4);">EXPLORE MY PORTFOLIO ✨</div>
+        <div style="color: #e6edf3; font-size: 13px; margin-top: 6px; font-weight: 500;">Interactive projects, technical journey, and creative insights.</div>
       </td>
-      <td align="right" style="padding: 15px;">
-        <div style="background: #1f6feb; color: white; padding: 10px 20px; border-radius: 8px; font-weight: bold; font-size: 13px;">EXPLORE →</div>
+      <td align="right" style="padding: 20px;">
+        <div style="background: linear-gradient(90deg, #1f6feb, #58a6ff); color: white; padding: 12px 24px; border-radius: 10px; font-weight: 900; font-size: 14px; box-shadow: 0 0 15px rgba(31, 111, 235, 0.4); text-transform: uppercase; letter-spacing: 1px;">Visit Site</div>
       </td>
     </tr>
   </table>
