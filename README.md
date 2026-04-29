@@ -20,7 +20,26 @@
     </td>
   </tr>
 </table>
+
 <br/>
+
+<!-- PORTFOLIO BANNER -->
+<a href="https://deepanmpc.github.io/PORTFOLIO/" style="text-decoration: none;">
+  <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #58a6ff;">
+    <tr>
+      <td align="left" style="padding: 15px;">
+        <div style="color: #58a6ff; font-size: 16px; font-weight: bold;">Visit My Portfolio ✨</div>
+        <div style="color: #8b949e; font-size: 12px; margin-top: 5px;">Explore my interactive projects, detailed journey, and technical blog.</div>
+      </td>
+      <td align="right" style="padding: 15px;">
+        <div style="background: #1f6feb; color: white; padding: 10px 20px; border-radius: 8px; font-weight: bold; font-size: 13px;">EXPLORE →</div>
+      </td>
+    </tr>
+  </table>
+</a>
+
+<br/>
+
 <!-- STATS CARDS WITH COLOUR THEME -->
 <table width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 12px; overflow: hidden;">
   <tr>
