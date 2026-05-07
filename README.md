@@ -143,7 +143,7 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #ffa657; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#ffa657; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/ResumeAnalyse" style="color:#ffa657; text-decoration:none;">004 — ResumeAnalyse</a></div>
+            <div style="color:#ffa657; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/ResumeAnalyse_RAG-Architecture" style="color:#ffa657; text-decoration:none;">004 — ResumeAnalyse</a></div>
             <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">RAG-based semantic matching system reducing recruiter effort by 50%.</div>
             <div style="margin-top:12px;">
               <img src="https://img.shields.io/badge/Transformers-ffa657?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-white?style=flat-square" /> <img src="https://img.shields.io/badge/Mistral-orange?style=flat-square" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
@@ -159,7 +159,7 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #ff7b72; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#ff7b72; font-weight:800; font-size:16px;"><a href="#" style="color:#ff7b72; text-decoration:none;">005 — SignSpeak AI</a></div>
+            <div style="color:#ff7b72; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/ISL_SIGNLANG_CNN" style="color:#ff7b72; text-decoration:none;">005 — SignSpeak AI</a></div>
             <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Real-time sign language recognition system with edge inference at 45 FPS.</div>
             <div style="margin-top:12px;">
               <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" /> <img src="https://img.shields.io/badge/CNN-ff7b72?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square" /> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square" />
@@ -175,7 +175,7 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #58a6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#58a6ff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/3d-shirt-customizer" style="color:#58a6ff; text-decoration:none;">006 — 3D Apparel Customizer</a></div>
+            <div style="color:#58a6ff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/3D-shirt_customizer" style="color:#58a6ff; text-decoration:none;">006 — 3D Apparel Customizer</a></div>
             <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Full-stack platform with real-time 3D product preview.</div>
             <div style="margin-top:12px;">
               <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" /> <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" />
@@ -191,7 +191,7 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #3fb950; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#3fb950; font-weight:800; font-size:16px;"><a href="#" style="color:#3fb950; text-decoration:none;">007 — LOVE PREDICT</a></div>
+            <div style="color:#3fb950; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/LOVE_PREDICT_ML_MODEL" style="color:#3fb950; text-decoration:none;">007 — LOVE PREDICT</a></div>
             <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">AI-powered relationship dynamic predictor using behavioral analytics and sentiment modeling.</div>
             <div style="margin-top:12px;">
               <img src="https://img.shields.io/badge/ML-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/Python-white?style=flat-square" />
@@ -202,12 +202,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="left" style="font-size:11px; color:#8b949e; margin-left:10px;">
-  > 🔒 <b>Also shipped:</b> <a href="https://github.com/deepanmpc/adversarial-defense-anti-spoofing" style="color:#58a6ff; text-decoration:none;">Adversarial Defense & Anti-Spoofing</a> — GPS spoofing detection (Guidewire DEVTrails 2026)
-</div>
 
 <br/>
 
