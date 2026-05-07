@@ -127,7 +127,7 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #3fb950; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#3fb950; font-weight:800; font-size:16px;"><a href="#" style="color:#3fb950; text-decoration:none;">003 — Food For Devs</a></div>
+            <div style="color:#3fb950; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/FoodForDevs" style="color:#3fb950; text-decoration:none;">003 — Food For Devs</a></div>
             <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Terminal-native food ordering bridge for developers to order meals directly from their IDE/Terminal via Zomato integration.</div>
             <div style="margin-top:12px;">
               <img src="https://img.shields.io/badge/MCP-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/Zomato%20API-red?style=flat-square" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" />
