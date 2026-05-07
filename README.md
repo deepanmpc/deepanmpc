@@ -92,13 +92,13 @@
   <!-- PROJECT 1 -->
   <tr>
     <td style="padding-bottom: 15px;">
-      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #58a6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #bc8cff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#58a6ff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/Anaavi_Neurodott" style="color:#58a6ff; text-decoration:none;">🤖 Anaavi · Neurodott</a></div>
-            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">A low-cost, adaptive robotic AI platform for neurodivergent therapy. 4-layer pipeline: Perception → State → FSM → Narrative.</div>
+            <div style="color:#bc8cff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/Anaavi_Neurodott" style="color:#bc8cff; text-decoration:none;">001 — NeuroDott</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Low-Cost Adaptive Robotic-AI emotion-aware therapy companion for neurodiverse individuals. Provides structured, predictable interaction between therapy sessions.</div>
             <div style="margin-top:12px;">
-              <img src="https://img.shields.io/badge/FastAPI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/YOLO-green?style=flat-square" /> <img src="https://img.shields.io/badge/Python-white?style=flat-square" />
+              <img src="https://img.shields.io/badge/FastAPI-bc8cff?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" /> <img src="https://img.shields.io/badge/Whisper-white?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-blue?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -108,13 +108,13 @@
   <!-- PROJECT 2 -->
   <tr>
     <td style="padding-bottom: 15px;">
-      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #3fb950; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #58a6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#3fb950; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/SMART-SEARCH" style="color:#3fb950; text-decoration:none;">🔍 SMART-SEARCH</a></div>
-            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Natural language file system search tool. Zero configuration, instant results via semantic understanding.</div>
+            <div style="color:#58a6ff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/SMART-SEARCH" style="color:#58a6ff; text-decoration:none;">002 — Search Wizard</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Multi-modal semantic search engine over 50K+ files with sub-400ms retrieval.</div>
             <div style="margin-top:12px;">
-              <img src="https://img.shields.io/badge/Python-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/NLP-white?style=flat-square" />
+              <img src="https://img.shields.io/badge/FAISS-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini-white?style=flat-square" /> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -124,13 +124,13 @@
   <!-- PROJECT 3 -->
   <tr>
     <td style="padding-bottom: 15px;">
-      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #bc8cff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #3fb950; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#bc8cff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/3d-shirt-customizer" style="color:#bc8cff; text-decoration:none;">👕 3D Shirt Customizer</a></div>
-            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Interactive browser-based 3D shirt customization. Real-time texture mapping & WebGL rendering.</div>
+            <div style="color:#3fb950; font-weight:800; font-size:16px;"><a href="#" style="color:#3fb950; text-decoration:none;">003 — Food For Devs</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Terminal-native food ordering bridge for developers to order meals directly from their IDE/Terminal via Zomato integration.</div>
             <div style="margin-top:12px;">
-              <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" /> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square" />
+              <img src="https://img.shields.io/badge/MCP-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/Zomato%20API-red?style=flat-square" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -143,10 +143,10 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #ffa657; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#ffa657; font-weight:800; font-size:16px;"><a href="#" style="color:#ffa657; text-decoration:none;">🤟 Indian Sign Language (ISL)</a></div>
-            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Real-time ISL recognition using CNN. Achieved 99.8% Accuracy at 45 FPS for seamless communication.</div>
+            <div style="color:#ffa657; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/ResumeAnalyse" style="color:#ffa657; text-decoration:none;">004 — ResumeAnalyse</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">RAG-based semantic matching system reducing recruiter effort by 50%.</div>
             <div style="margin-top:12px;">
-              <img src="https://img.shields.io/badge/CNN-orange?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square" />
+              <img src="https://img.shields.io/badge/Transformers-ffa657?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-white?style=flat-square" /> <img src="https://img.shields.io/badge/Mistral-orange?style=flat-square" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -159,10 +159,10 @@
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #ff7b72; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#ff7b72; font-weight:800; font-size:16px;"><a href="#" style="color:#ff7b72; text-decoration:none;">💖 Love Predict</a></div>
-            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">AI-powered relationship dynamic predictor using behavioral analytics and sentiment modeling.</div>
+            <div style="color:#ff7b72; font-weight:800; font-size:16px;"><a href="#" style="color:#ff7b72; text-decoration:none;">005 — SignSpeak AI</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Real-time sign language recognition system with edge inference at 45 FPS.</div>
             <div style="margin-top:12px;">
-              <img src="https://img.shields.io/badge/ML-red?style=flat-square" /> <img src="https://img.shields.io/badge/Python-white?style=flat-square" />
+              <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" /> <img src="https://img.shields.io/badge/CNN-ff7b72?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square" /> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square" />
             </div>
           </td>
         </tr>
@@ -172,13 +172,45 @@
   <!-- PROJECT 6 -->
   <tr>
     <td style="padding-bottom: 15px;">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #58a6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+        <tr>
+          <td style="padding: 20px;">
+            <div style="color:#58a6ff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/3d-shirt-customizer" style="color:#58a6ff; text-decoration:none;">006 — 3D Apparel Customizer</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Full-stack platform with real-time 3D product preview.</div>
+            <div style="margin-top:12px;">
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" /> <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" />
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- PROJECT 7 -->
+  <tr>
+    <td style="padding-bottom: 15px;">
       <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #3fb950; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
         <tr>
           <td style="padding: 20px;">
-            <div style="color:#3fb950; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/ResumeAnalyse" style="color:#3fb950; text-decoration:none;">📄 ResumeAnalyse · RAG</a></div>
-            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">RAG-architecture matching engine. Cuts Recruiter screening time by 50% using semantic search.</div>
+            <div style="color:#3fb950; font-weight:800; font-size:16px;"><a href="#" style="color:#3fb950; text-decoration:none;">007 — LOVE PREDICT</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">AI-powered relationship dynamic predictor using behavioral analytics and sentiment modeling.</div>
             <div style="margin-top:12px;">
-              <img src="https://img.shields.io/badge/RAG-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/LLM-white?style=flat-square" />
+              <img src="https://img.shields.io/badge/ML-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/Python-white?style=flat-square" />
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- PROJECT 8 -->
+  <tr>
+    <td style="padding-bottom: 15px;">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #bc8cff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+        <tr>
+          <td style="padding: 20px;">
+            <div style="color:#bc8cff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/adversarial-defense-anti-spoofing" style="color:#bc8cff; text-decoration:none;">008 — Adversarial Defense & Anti-Spoofing</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Robust GPS spoofing detection system developed for Guidewire DEVTrails 2026.</div>
+            <div style="margin-top:12px;">
+              <img src="https://img.shields.io/badge/ML-bc8cff?style=flat-square" /> <img src="https://img.shields.io/badge/Python-white?style=flat-square" />
             </div>
           </td>
         </tr>
