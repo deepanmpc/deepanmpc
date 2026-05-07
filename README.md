@@ -222,7 +222,7 @@
         <tr>
           <td style="padding:15px;">
             <div style="color:#58a6ff; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:12px;">📈 Dev Stack</div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e" width="100%" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
           </td>
         </tr>
       </table>
@@ -231,8 +231,8 @@
       <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:12px; border-top: 3px solid #ffa657;">
         <tr>
           <td align="center" style="padding:15px;">
-            <div style="color:#ffa657; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:8px;">🔥 Current Streak</div>
-            <span style="color:#ffa657; font-size:36px; font-weight:900;">42</span>
+            <div style="color:#ffa657; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:8px;">🔥 Top Streak</div>
+            <span style="color:#ffa657; font-size:36px; font-weight:900;">52</span>
             <div style="color:#8b949e; font-size:12px; font-weight:bold;">DAYS ACTIVE</div>
           </td>
         </tr>
