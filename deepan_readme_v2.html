@@ -177,13 +177,6 @@
         <span class="pt">ML</span><span class="pt">Python</span><span class="pt">NLP</span>
       </div>
     </div>
-    <div class="pc" style="--c:#bc8cff">
-      <div class="pn">008 — Adversarial Defense</div>
-      <div class="pd">Robust GPS spoofing detection system. Secured runner-up at Guidewire DEVTrails 2026 for anti-spoofing logic.</div>
-      <div class="pm">
-        <span class="pt">ML</span><span class="pt">Python</span><span class="pt">Security</span>
-      </div>
-    </div>
   </div>
 
   <!-- BOTTOM -->
@@ -335,6 +328,23 @@ function draw(ts){
       ctx.moveTo(sx + isoX,   sy - barH + isoY);
       ctx.lineTo(sx + isoX,   sy + isoY);
       ctx.lineTo(sx + tileW,  sy);
+      ctx.lineTo(sx + tileW,  sy - barH);
+      ctx.closePath();
+      ctx.fillStyle = rightColor;
+      ctx.fill();
+    }
+  }
+
+  if(progress < 1){
+    requestAnimationFrame(draw);
+  }
+}
+
+// Wait for layout then start
+setTimeout(()=>{ requestAnimationFrame(draw); }, 300);
+window.addEventListener('resize', ()=>{ t0=null; requestAnimationFrame(draw); });
+</script>
+tileW,  sy);
       ctx.lineTo(sx + tileW,  sy - barH);
       ctx.closePath();
       ctx.fillStyle = rightColor;

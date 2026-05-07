@@ -201,22 +201,6 @@
       </table>
     </td>
   </tr>
-  <!-- PROJECT 8 -->
-  <tr>
-    <td style="padding-bottom: 15px;">
-      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #bc8cff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-        <tr>
-          <td style="padding: 20px;">
-            <div style="color:#bc8cff; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/adversarial-defense-anti-spoofing" style="color:#bc8cff; text-decoration:none;">008 — Adversarial Defense & Anti-Spoofing</a></div>
-            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Robust GPS spoofing detection system developed for Guidewire DEVTrails 2026.</div>
-            <div style="margin-top:12px;">
-              <img src="https://img.shields.io/badge/ML-bc8cff?style=flat-square" /> <img src="https://img.shields.io/badge/Python-white?style=flat-square" />
-            </div>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
 </table>
 
 <br/>
@@ -253,6 +237,25 @@
           </td>
         </tr>
       </table>
+      <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:12px; margin-top:12px; border-top: 3px solid #3fb950;">
+        <tr>
+          <td style="padding:15px;">
+            <div style="color:#3fb950; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:10px;">🏆 Notable Certs</div>
+            <div style="font-size:11px; color:#e6edf3; line-height:1.6;">
+              ✨ <b>Oracle</b> GenAI Professional<br/>
+              ✨ <b>NVIDIA</b> Deep Learning Inst.
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<br/>
+<p align="center" style="font-size:10px; color:#8b949e; text-transform:uppercase; letter-spacing:1px;">
+  <span style="color:#58a6ff; font-weight: bold;">github.com/deepanmpc</span> &nbsp; • &nbsp; <span style="color:#ffa657; font-weight: bold;">linkedin.com/in/deepanmpc</span>
+</p>
+</div>le>
       <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:12px; margin-top:12px; border-top: 3px solid #3fb950;">
         <tr>
           <td style="padding:15px;">
