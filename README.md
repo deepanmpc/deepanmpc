@@ -16,6 +16,7 @@
         <img src="https://img.shields.io/badge/Computer%20Vision-238636?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/Full--Stack-d27600?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/Competitive%20Prog-8250df?style=for-the-badge&logoColor=white" />
+        <img src="https://komarev.com/ghpvc/?username=deepanmpc&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
       </div>
     </td>
   </tr>
