@@ -9,7 +9,7 @@
       <h2 style="margin:0; background: linear-gradient(120deg, #58a6ff, #bc8cff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Deepan Chandrasekaran</h2>
       <div style="color:#58a6ff; font-size:12px; margin-top:2px; font-weight: bold;">@deepanmpc · KL University · Vaddeswaram · Batch 2027</div>
       <div style="color: #8b949e; font-size:11px; margin-top:7px; line-height:1.6;">
-        Pre-final year <b>CS + AI</b> engineer building <b>Anaavi</b> — a low-cost AI therapy companion for neurodivergent children. CGPA 9.15 · Oracle GenAI · NVIDIA DLI
+       Final year <b>CS + AI</b> engineer building <b>Anaavi</b> — a low-cost AI therapy companion for neurodivergent children. CGPA 9.15 · Oracle GenAI · NVIDIA DLI
       </div>
       <div style="margin-top:10px;">
         <img src="https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=for-the-badge&logoColor=white" />
@@ -78,7 +78,7 @@
 <br/>
 <!-- CONTRIBUTION LANDSCAPE -->
 <div align="left" style="font-size:11px; color:#58a6ff; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
-  🌌 Contribution landscape · 2024–2025
+  Contribution landscape · 2024–2025
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -88,7 +88,7 @@
 <br/>
 <!-- FEATURED PROJECTS GRID -->
 <div align="left" style="font-size:11px; color:#bc8cff; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
-  🚀 Featured projects
+   Featured projects
 </div>
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <!-- PROJECT 1 -->
@@ -233,7 +233,7 @@
       <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:12px;">
         <tr>
           <td style="padding:15px;">
-            <div style="color:#58a6ff; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:12px;">📈 Dev Stack</div>
+            <div style="color:#58a6ff; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:12px;"> Dev Stack</div>
             <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
           </td>
         </tr>
@@ -243,7 +243,7 @@
       <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:12px; border-top: 3px solid #ffa657;">
         <tr>
           <td align="center" style="padding:15px;">
-            <div style="color:#ffa657; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:8px;">🔥 Top Streak</div>
+            <div style="color:#ffa657; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:8px;"> Top Streak</div>
             <span style="color:#ffa657; font-size:36px; font-weight:900;">52</span>
             <div style="color:#8b949e; font-size:12px; font-weight:bold;">DAYS ACTIVE</div>
           </td>
@@ -252,10 +252,10 @@
       <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:12px; margin-top:12px; border-top: 3px solid #3fb950;">
         <tr>
           <td style="padding:15px;">
-            <div style="color:#3fb950; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:10px;">🏆 Notable Certs</div>
+            <div style="color:#3fb950; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:10px;"> Notable Certs</div>
             <div style="font-size:11px; color:#e6edf3; line-height:1.6;">
-              ✨ <b>Oracle</b> GenAI Professional<br/>
-              ✨ <b>NVIDIA</b> Deep Learning Inst.
+               <b>Oracle</b> GenAI Professional<br/>
+               <b>NVIDIA</b> Deep Learning Inst.
             </div>
           </td>
         </tr>
@@ -271,10 +271,10 @@
       <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:12px; margin-top:12px; border-top: 3px solid #3fb950;">
         <tr>
           <td style="padding:15px;">
-            <div style="color:#3fb950; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:10px;">🏆 Notable Certs</div>
+            <div style="color:#3fb950; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:10px;"> Notable Certs</div>
             <div style="font-size:11px; color:#e6edf3; line-height:1.6;">
-              ✨ <b>Oracle</b> GenAI Professional<br/>
-              ✨ <b>NVIDIA</b> Deep Learning Inst.
+               <b>Oracle</b> GenAI Professional<br/>
+               <b>NVIDIA</b> Deep Learning Inst.
             </div>
           </td>
         </tr>
