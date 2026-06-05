@@ -264,26 +264,3 @@
   </tr>
 </table>
 <br/>
-<p align="center" style="font-size:10px; color:#8b949e; text-transform:uppercase; letter-spacing:1px;">
-  <span style="color:#58a6ff; font-weight: bold;">github.com/deepanmpc</span> &nbsp; • &nbsp; <span style="color:#ffa657; font-weight: bold;">linkedin.com/in/deepanmpc</span>
-</p>
-</div>le>
-      <table width="100%" bgcolor="#161b22" style="border:1px solid #30363d; border-radius:12px; margin-top:12px; border-top: 3px solid #3fb950;">
-        <tr>
-          <td style="padding:15px;">
-            <div style="color:#3fb950; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:10px;"> Notable Certs</div>
-            <div style="font-size:11px; color:#e6edf3; line-height:1.6;">
-               <b>Oracle</b> GenAI Professional<br/>
-               <b>NVIDIA</b> Deep Learning Inst.
-            </div>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<br/>
-<p align="center" style="font-size:10px; color:#8b949e; text-transform:uppercase; letter-spacing:1px;">
-  <span style="color:#58a6ff; font-weight: bold;">github.com/deepanmpc</span> &nbsp; • &nbsp; <span style="color:#ffa657; font-weight: bold;">linkedin.com/in/deepanmpc</span>
-</p>
-</div>
