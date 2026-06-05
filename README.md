@@ -61,7 +61,7 @@
   <!-- ROW 2 -->
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #bc8cff;">
-      <div style="color:#bc8cff; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(188,140,255,0.3);">8★</div>
+      <div style="color:#bc8cff; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(188,140,255,0.3);">10★</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">SMART-SEARCH</div>
     </td>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #ff7b72;">
@@ -69,7 +69,7 @@
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">Resume Speed</div>
     </td>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #e6edf3;">
-      <div style="color:#e6edf3; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,255,255,0.2);">688</div>
+      <div style="color:#e6edf3; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,255,255,0.2);">831</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">Yearly Contribs</div>
     </td>
   </tr>
@@ -82,7 +82,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Isometric Contribution Grid" src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/output/profile-night-rainbow.svg" width="100%" />
+  <img alt="3D Isometric Contribution Grid" src="https://raw.githubusercontent.com/deepanmpc/deepanmpc/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
 <br/>
 <!-- FEATURED PROJECTS GRID -->
@@ -196,6 +196,22 @@
             <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">AI-powered relationship dynamic predictor using behavioral analytics and sentiment modeling.</div>
             <div style="margin-top:12px;">
               <img src="https://img.shields.io/badge/ML-3fb950?style=flat-square" /> <img src="https://img.shields.io/badge/Python-white?style=flat-square" />
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- PROJECT 8 -->
+  <tr>
+    <td style="padding-bottom: 15px;">
+      <table width="100%" bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; border-left: 5px solid #ffa657; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+        <tr>
+          <td style="padding: 20px;">
+            <div style="color:#ffa657; font-weight:800; font-size:16px;"><a href="https://github.com/deepanmpc/COWORK_AGENT_DESKTOP_AUTOMATION-COMPUTER_USE-" style="color:#ffa657; text-decoration:none;">008 — Cowork Agent</a></div>
+            <div style="color:#8b949e; font-size:13px; line-height:1.6; margin-top:8px;">Fully autonomous AI desktop agent for macOS. Uses multi-modal reasoning (GPT/Llama) and OmniParser to interpret screen state and execute complex tasks across applications.</div>
+            <div style="margin-top:12px;">
+              <img src="https://img.shields.io/badge/Python-white?style=flat-square" /> <img src="https://img.shields.io/badge/AI%20Agent-blue?style=flat-square" /> <img src="https://img.shields.io/badge/OmniParser-orange?style=flat-square" />
             </div>
           </td>
         </tr>
