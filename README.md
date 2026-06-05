@@ -233,7 +233,7 @@
         <tr>
           <td style="padding:15px;">
             <div style="color:#58a6ff; font-size:10px; text-transform:uppercase; letter-spacing:1.5px; font-weight:bold; margin-bottom:12px;">📈 Dev Stack</div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deepanmpc&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
           </td>
         </tr>
       </table>
