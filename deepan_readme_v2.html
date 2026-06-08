@@ -344,20 +344,3 @@ function draw(ts){
 setTimeout(()=>{ requestAnimationFrame(draw); }, 300);
 window.addEventListener('resize', ()=>{ t0=null; requestAnimationFrame(draw); });
 </script>
-tileW,  sy);
-      ctx.lineTo(sx + tileW,  sy - barH);
-      ctx.closePath();
-      ctx.fillStyle = rightColor;
-      ctx.fill();
-    }
-  }
-
-  if(progress < 1){
-    requestAnimationFrame(draw);
-  }
-}
-
-// Wait for layout then start
-setTimeout(()=>{ requestAnimationFrame(draw); }, 300);
-window.addEventListener('resize', ()=>{ t0=null; requestAnimationFrame(draw); });
-</script>

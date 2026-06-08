@@ -70,7 +70,7 @@
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">Resume Speed</div>
     </td>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-top: 3px solid #e6edf3;">
-      <div style="color:#e6edf3; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,255,255,0.2);">831</div>
+      <div style="color:#e6edf3; font-size:20px; font-weight:800; text-shadow: 0 0 10px rgba(255,255,255,0.2);">842</div>
       <div style="color:#8b949e; font-size:9px; text-transform:uppercase; letter-spacing:1px; margin-top:4px;">Yearly Contribs</div>
     </td>
   </tr>
