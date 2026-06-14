@@ -225,7 +225,7 @@
 
 <!-- STACK & ACTIVITY -->
 <p align="left" style="font-size:11px; color:#ffa657; font-weight: bold; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px;">
-  ⚒️ Stack & activity
+   Stack & activity
 </p>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
